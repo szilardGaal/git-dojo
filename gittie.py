@@ -3,7 +3,7 @@ def introduce():
 
 
 def joke():
-    print("cucc...")
+    print("cuccoscucc")
 
     
 introduce()
