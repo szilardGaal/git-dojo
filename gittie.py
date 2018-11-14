@@ -7,3 +7,7 @@ def joke():
 
     
 introduce()
+def add():
+    print("add")
+
+introduce()
